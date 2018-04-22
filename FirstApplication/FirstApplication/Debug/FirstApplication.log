@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  ViewTree.cpp
+  PropertiesWnd.cpp
+  OutputWnd.cpp
+  MainFrm.cpp
+  FirstApplicationView.cpp
+  FirstApplicationDoc.cpp
+  FirstApplication.cpp
+  FileView.cpp
+  ClassView.cpp
+  ChildFrm.cpp
+  Generating Code...
+  FirstApplication.vcxproj -> F:\FirstApplication\FirstApplication\Debug\FirstApplication.exe
